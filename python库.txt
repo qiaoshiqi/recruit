@@ -1,0 +1,7 @@
+pip install pandas -i https://pypi.douban.com/simple
+
+pip install selenium -i http://pypi.douban.com/simple/ --trusted-host pypi.douban.com
+
+pip install time -i https://pypi.douban.com/simple
+
+pip install os -i https://pypi.douban.com/simple/ --trusted-host pypi.douban.com
